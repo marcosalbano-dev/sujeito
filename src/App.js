@@ -1,9 +1,9 @@
+import Header from "./components/Header";
+import RoutesApp from "./routes";
 
 function App() {
   return (
-    <div>
-      <h1>TESTE PROJETO</h1>
-    </div>
+      <RoutesApp/>
   );
 }
 
